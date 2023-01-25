@@ -11,7 +11,6 @@ setup(
     author="Miguel Piedrafita",
     install_requires=[
         'youtube-dl',
-        'whisper @ git+https://github.com/openai/whisper.git'
     ],
     description="Automatically generate and embed subtitles into your videos",
     entry_points={
